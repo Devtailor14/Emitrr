@@ -1,0 +1,14 @@
+.env*
+.next/
+.astro/
+.codacy/
+.vscode/
+.vercel/
+
+dist/
+build/
+node_modules/
+
+pnpm-lock.yaml
+package-lock.json
+yarn-lock.json
